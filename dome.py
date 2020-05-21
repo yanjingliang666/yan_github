@@ -1,2 +1,2 @@
 import 
-print("hello word")
+print("hello word 你好吗？")
